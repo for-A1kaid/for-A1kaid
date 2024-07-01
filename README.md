@@ -4,7 +4,8 @@
 
   ID: A1kaid 
 
-  Student
+  Student(x)
+  Security Researcher
 
   Blog: [a1kaid.top](https://www.a1kaid.top)
 
