@@ -14,6 +14,11 @@
 
   [CVE-2025-53005 Dataease PostgreSQL Data Source JDBC Connection Parameters Bypass Vulnerability](https://github.com/dataease/dataease/security/advisories/GHSA-99c4-h4fq-r23v)
 
+  CVE-2025-x Apache x;
+
+  CVE-2025-x Apache x;
+
+
 
   如果犹豫昨天,就会放弃今天
   
