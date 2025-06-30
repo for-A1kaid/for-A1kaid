@@ -8,6 +8,8 @@
   
   Security Researcher
   [CVE-2025-53004 Dataease Redshift Data Source JDBC Connection Parameters Bypass Vulnerability](https://github.com/dataease/dataease/security/advisories/GHSA-99c4-h4fq-r23v)
+
+
   [CVE-2025-53005 Dataease PostgreSQL Data Source JDBC Connection Parameters Bypass Vulnerability](https://github.com/dataease/dataease/security/advisories/GHSA-99c4-h4fq-r23v)
 
 
