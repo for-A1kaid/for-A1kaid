@@ -18,7 +18,7 @@
   [CVE-2025-57773 Dataease DB2 Aspectweaver Deserialization Arbitrary File Write Vulnerability](https://github.com/dataease/dataease/security/advisories/GHSA-7r8j-6whv-4j5p)
 
 
-  CVE-2025-x Apache x;
+  [CVE-2025-29847 Apache Linkis:Arbitrart File Read Via Double URL Enoding Bypass](https://lists.apache.org/thread/03l5rfkgdt022o75jp8x4tzpqxz8g057)
 
   CVE-2025-x Apache x;
 
